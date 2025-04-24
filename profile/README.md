@@ -27,7 +27,7 @@ Our projects range from open-source developer tools to proprietary enterprise so
 
 ## 🌟 Featured Projects
 
-### [CrackCode](https://github.com/Nova-Haven/crackcode)
+### [CrackedCoder](https://github.com/Nova-Haven/CrackedCoder)
 
 <img src="https://img.shields.io/badge/AI--Powered-Interview_Assistant-00b4d8?style=flat-square"/> <img src="https://img.shields.io/badge/Public-Open--Source-brightgreen?style=flat-square"/>
 
